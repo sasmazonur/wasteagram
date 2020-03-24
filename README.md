@@ -2,7 +2,7 @@
 > Recording food waste app for restaurants and coffees
 
 
-One to two paragraph statement about your product and what it does.
+Implement Wasteagram, a mobile app that enables restaurants/coffees employees to document daily food waste in the form of "posts" consisting of a photo, number of leftover items, the current date, and the location of the device when the post is created. The application will also display a list of all previous posts. 
 
 <img src="/mainpage.png" width="260">   <img src="/additem.png" width="260">   <img src="/detailview.png" width="260">
 
