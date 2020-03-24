@@ -4,9 +4,10 @@
 
 One to two paragraph statement about your product and what it does.
 
-<img src="/uploadimage.png" width="48">
+<img src="/mainpage.png" width="300">
+<img src="/additem.png" width="300">
+<img src="/detailview.png" width="300">
 
-![](/uploadimage.png)
 
 ## Installation
 
