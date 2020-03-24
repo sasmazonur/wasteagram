@@ -4,6 +4,8 @@
 
 One to two paragraph statement about your product and what it does.
 
+<img src="/uploadimage.png" width="48">
+
 ![](/uploadimage.png)
 
 ## Installation
