@@ -1,4 +1,4 @@
-# Product Name
+# Wasteagram
 > Recording food waste app for restaurants and coffees
 
 
